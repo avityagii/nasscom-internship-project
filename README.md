@@ -1,1 +1,1 @@
-# nasscom-internship-project
+# AI Powered Career Guidance System
